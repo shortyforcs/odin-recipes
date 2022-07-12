@@ -1,1 +1,1 @@
-# odin-recipes
+TOP's first project: Recipe website. Focuses on GIT and HTML
